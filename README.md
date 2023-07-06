@@ -27,7 +27,7 @@ Describe the process of using the solution. In what kind situations is the solut
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Space](https://upload.gencraft.com/u/Athul1447 "\Users\ADMIN\Downloads\environment in  0.png" )
+![Space](https://images.newscientist.com/wp-content/uploads/2016/07/06180000/spaceinc.jpg?width=900)
 
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
