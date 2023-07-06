@@ -8,7 +8,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+This project aims to delve into the exciting realm of art and creativity by exploring the intersection of painting and Artificial Intelligence (AI). Through this project, we will understand how AI can be used as a tool to assist artists, generate new artistic possibilities, and foster collaboration between human creativity and machine intelligence. 
 
 
 ## Background
