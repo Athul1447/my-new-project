@@ -14,9 +14,14 @@ This project explores the exciting combination of painting and Artificial Intell
 
 This project explores the exciting combination of painting and Artificial Intelligence (AI). With advancements in AI algorithms, artists and technologists are discovering new ways to leverage AI as a tool for creative expression. By exploring this intersection, the project aims to uncover the possibilities, challenges, and collaborative opportunities that arise when human artistry intersects with AI technology.
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
+Problems and challenges that can be overcomed by this project:
+* problem 1:Enhancing Artistic Creativity: By leveraging AI as a tool, artists can overcome creative blocks, explore new artistic styles, and generate fresh ideas that may not have been possible through traditional 
+            methods alone. 
+* problem 2:Limited Access to Art Education: Not everyone has access to formal art education or the resources to learn various artistic techniques. AI-powered tools can provide accessible tutorials, virtual workshops, and 
+            personalized guidance to aspiring artists, democratizing art education.
+* problem 3:Time Constraints: Artists often face time constraints due to other commitments or deadlines. AI can automate certain aspects of the creative process, such as sketching or color suggestions, to help artists 
+            save time and focus on other critical elements of their artwork.
+* problem 4:
 * etc.
 
 
