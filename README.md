@@ -12,7 +12,7 @@ This project explores the exciting combination of painting and Artificial Intell
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+This project explores the exciting combination of painting and Artificial Intelligence (AI). With advancements in AI algorithms, artists and technologists are discovering new ways to leverage AI as a tool for creative expression. By exploring this intersection, the project aims to uncover the possibilities, challenges, and collaborative opportunities that arise when human artistry intersects with AI technology.
 
 This is how you make a list, if you need one:
 * problem 1
