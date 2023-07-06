@@ -8,8 +8,7 @@ Final project for the Building AI course
 
 ## Summary
 
-This project aims to delve into the exciting realm of art and creativity by exploring the intersection of painting and Artificial Intelligence (AI). Through this project, we will understand how AI can be used as a tool to assist artists, generate new artistic possibilities, and foster collaboration between human creativity and machine intelligence. 
-
+This project explores the exciting combination of painting and Artificial Intelligence (AI) to unlock new creative possibilities. By leveraging AI as a tool, we aim to understand how it can assist artists, generate unique artworks, and foster collaboration between human creativity and machine intelligence.
 
 ## Background
 
